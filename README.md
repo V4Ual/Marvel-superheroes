@@ -5,4 +5,4 @@ I have created a small website for searching Marvel superheroes.You can find you
 
 # site view
 
-(https://github.com/V4Ual/Marvel-superheroes/blob/main/Image%203.jpg)
+(https://github.com/V4Ual/Marvel-superheroes/blob/main/Image%203.jpg)?raw=true
